@@ -1,0 +1,4 @@
+*.log
+.tscache
+node_modules
+dist
